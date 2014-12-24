@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require File.expand_path('../../lib/demo/auto_scaling_demo', __FILE__)
+
+AutoScalingDemo.new.run

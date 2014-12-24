@@ -1,0 +1,14 @@
+# コントロールパネルより作成したAPIキーを指定してください
+# https://secure.sakura.ad.jp/cloud/iaas/#!/pref/apikey/ より作成できます
+token: your-token
+secret: your-token-secret
+
+# リソースを作成するゾーンを指定してください
+# tk1a(東京第1), is1a(石狩第1), is1b(石狩第2), tk1v(Sandbox)
+zone: is1a
+
+# 作成したサーバ,スイッチ,ロードバランサのリソースIDを指定してください
+base_server_id: 999999999999
+swytch_id: 999999999999
+lb_id: 999999999999
+
