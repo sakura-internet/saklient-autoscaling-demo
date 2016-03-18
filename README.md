@@ -5,7 +5,7 @@ Ruby版のSaklientを用いたAutoScalingのデモプログラムです。
 
 ## 前提
 本デモプログラムの実行前に、必要なリソース郡を下記の記事を参考に作成して頂く必要があります。  
-[【TIPS】ロードバランサとサーバクローンで簡単スケールアウト  |  さくらのクラウドニュース](http://cloud-news.sakura.ad.jp/2015/07/22/scale_out/)  
+[【TIPS】さくらのクラウドでAuto Scaling  |  さくらのクラウドニュース](http://cloud-news.sakura.ad.jp/2016/03/18/auto-scaling/)  
 ※ 作成するサーバには `autoscaling-demo` タグを付与してください。  
 
 ## 注意
