@@ -8,7 +8,7 @@ secret: your-token-secret
 zone: is1a
 
 # 作成したサーバ,スイッチ,ロードバランサのリソースIDを指定してください
-base_server_id: 999999999999
-swytch_id: 999999999999
-lb_id: 999999999999
+base_server_id: '999999999999'
+swytch_id: '999999999999'
+lb_id: '999999999999'
 
