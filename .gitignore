@@ -60,6 +60,7 @@ crashlytics-build.properties
 /test/tmp/
 /test/version_tmp/
 /tmp/
+vendor
 
 ## Specific to RubyMotion:
 .dat*
