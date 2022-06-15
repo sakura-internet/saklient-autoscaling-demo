@@ -1,3 +1,9 @@
+# DEPRECATED
+
+**[PLEASE USE THE ALTERNATIVE FEATURE](https://manual.sakura.ad.jp/cloud/autoscale/autoscale.html)**
+
+**[代替機能をご利用ください](https://manual.sakura.ad.jp/cloud/autoscale/autoscale.html)**
+
 # Saklient AutoScaling Demo
 
 Ruby版のSaklientを用いたAutoScalingのデモプログラムです。
